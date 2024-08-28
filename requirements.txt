@@ -1,0 +1,3 @@
+sklearn==0.0.post11
+scipy==1.11.3
+pandas==1.5.3
